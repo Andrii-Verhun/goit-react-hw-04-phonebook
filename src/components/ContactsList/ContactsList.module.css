@@ -1,0 +1,13 @@
+.wrapper {
+    width: 520px;
+    box-sizing: border-box;
+    background: #cfe7ee;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.title {
+    text-transform: uppercase;
+    color: #354888;
+}
